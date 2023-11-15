@@ -1,8 +1,9 @@
 <p>
+  <h1>Today</h1>
   <p>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGrangbelrLurain&count_bg=%231F6237&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   </p>
-  <p>This is my stack</p>
+  <h1>This is my stack</h1>
   <p>
     <img src="https://img.shields.io/badge/ES6-black?style=flat&logo=Javascript"/>
     <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3"/>
@@ -15,7 +16,7 @@
     <img src="https://img.shields.io/badge/Prisma-black?style=flat&logo=Prisma"/>
     <img src="https://img.shields.io/badge/TypeORM-black?style=flat&"/>
   </p>
-  <p>If you find me, check here</p>
+  <h1>If you find me, check here</h1>
   <p>
     <a href="mailto:lurain003@gmail.com">lurain003@gmail.com</a>
   </p>
