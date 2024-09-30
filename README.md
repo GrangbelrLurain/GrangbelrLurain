@@ -18,7 +18,7 @@
   <b>connects</b>
   <br>
   <a href="mailto:lurain003@gmail.com">lurain003@gmail.com</a>,
-  <a href="tel:+821023006059">+8210-2300-6059</a>,
+  <a href="tel:01023006059">+8210-2300-6059</a>,
 </p>
 <p>
   <b>some pages</b>
