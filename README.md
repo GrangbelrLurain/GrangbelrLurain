@@ -20,8 +20,3 @@
   <a href="mailto:lurain003@gmail.com">lurain003@gmail.com</a>,
   <a href="tel:01023006059">+8210-2300-6059</a>,
 </p>
-<p>
-  <b>some pages</b>
-  <br>
-  <a href="https://rooftop-cat-profile.web.app/">https://rooftop-cat-profile.web.app/</a>
-</p>
