@@ -191,48 +191,74 @@
     <li>프로그램 운영 비용 대비 고객 단가가 너무 낮아 실질적 수익 확보에 많은 고객이 필요</li>
   </ul>
   <h2>Others</h2>
-  <figure>
-    <figcaption>
-      <a href="https://www.kidcms.com/">KIDCMS (2024-08)</a>
-    </figcaption>
-    <img src="https://github.com/user-attachments/assets/c2cb04ff-4329-42c2-b2a7-913a13eba73b" />
-  </figure>
-  <figure>
-    <figcaption>
-      <a href="https://gsiko.com/">GSIKO (2024-07)</a>
-    </figcaption>
-    <img src="https://github.com/user-attachments/assets/af4018e3-e26f-4ce6-a16f-cee6ff4de939" />
-  </figure>
-  <figure>
-    <figcaption>
-      <a href="https://yescms.com/">YESCMS (2024-06)</a>
-    </figcaption>
-    <img src="https://github.com/user-attachments/assets/eaa642c3-8e64-4398-875a-0ca3193b30c9" />
-  </figure>
-  <figure>
-    <figcaption>
-      <a href="https://cheonjiyutong.vercel.app/">CHEONJIYUTONG (2024-01)</a>
-    </figcaption>
-    <img src="https://github.com/user-attachments/assets/995c5f8b-89ad-4bcc-a8f6-469d39d68931" />
-  </figure>
-  <figure>
-    <figcaption>
-      <a href="https://outlet-ticket.vercel.app/">OUTLETTICKET (2024-01)</a>
-    </figcaption>
-    <img src="https://github.com/user-attachments/assets/7f6dd264-034c-425a-93e9-b12f32105d9d" />
-  </figure>
-  <figure>
-    <figcaption>
-      <a href="https://www.xn--b02b03n87n.com/">맥스팀 (2024-01)</a>
-    </figcaption>
-    <img src="https://github.com/user-attachments/assets/47fdd0b5-f060-4936-915d-31a2947e8283" />
-  </figure>
-  <figure>
-    <figcaption>
-      <a href="https://xn--ef5b84b66f.com/">찜앤장 (2023-10)</a>
-    </figcaption>
-    <img src="https://github.com/user-attachments/assets/2b5fec80-d26e-4e31-a5e4-56c19da5fcac" />
-  </figure>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <figure>
+            <figcaption>
+              <a href="https://www.kidcms.com/">KIDCMS (2024-08)</a>
+            </figcaption>
+            <img src="https://github.com/user-attachments/assets/c2cb04ff-4329-42c2-b2a7-913a13eba73b" />
+          </figure>
+        </td>
+        <td>
+          <figure>
+            <figcaption>
+              <a href="https://gsiko.com/">GSIKO (2024-07)</a>
+            </figcaption>
+            <img src="https://github.com/user-attachments/assets/af4018e3-e26f-4ce6-a16f-cee6ff4de939" />
+          </figure>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <figure>
+            <figcaption>
+              <a href="https://yescms.com/">YESCMS (2024-06)</a>
+            </figcaption>
+            <img src="https://github.com/user-attachments/assets/eaa642c3-8e64-4398-875a-0ca3193b30c9" />
+          </figure>
+        </td>
+        <td>
+          <figure>
+            <figcaption>
+              <a href="https://cheonjiyutong.vercel.app/">CHEONJIYUTONG (2024-01)</a>
+            </figcaption>
+            <img src="https://github.com/user-attachments/assets/995c5f8b-89ad-4bcc-a8f6-469d39d68931" />
+          </figure>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <figure>
+            <figcaption>
+              <a href="https://outlet-ticket.vercel.app/">OUTLETTICKET (2024-01)</a>
+            </figcaption>
+            <img src="https://github.com/user-attachments/assets/7f6dd264-034c-425a-93e9-b12f32105d9d" />
+          </figure>
+        </td>
+        <td>
+          <figure>
+            <figcaption>
+              <a href="https://www.xn--b02b03n87n.com/">맥스팀 (2024-01)</a>
+            </figcaption>
+            <img src="https://github.com/user-attachments/assets/47fdd0b5-f060-4936-915d-31a2947e8283" />
+          </figure>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <figure>
+            <figcaption>
+              <a href="https://xn--ef5b84b66f.com/">찜앤장 (2023-10)</a>
+            </figcaption>
+            <img src="https://github.com/user-attachments/assets/2b5fec80-d26e-4e31-a5e4-56c19da5fcac" />
+          </figure>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </article>
 <article>
   <h1>EXPERIENCE</h1>
