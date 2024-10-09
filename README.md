@@ -29,7 +29,7 @@
     </figcaption>
     <img src="https://github.com/user-attachments/assets/57ef7a81-53b2-40f6-955b-5532340fca5d"/>
   </figure>
-  <h2><a href="https://studio.shopfanpick.com/">2. 스튜디오 프로젝트</a></h2>
+  <h2>2. 스튜디오 프로젝트</h2>
   <img src="https://github.com/user-attachments/assets/ba78ca89-bcec-4f20-8b04-a4aa5644f5bf" />
   <h2>3. 커뮤니티 프로젝트</h2>
   <img src="https://github.com/user-attachments/assets/06cb8195-b1b0-4ccc-a80d-6f1326754d37" />
