@@ -15,15 +15,22 @@
 <p>어떤 이슈든 해결책을 더하고 불필요한 것은 빼며 문제를 해결해나가겠습니다.</p>
 </article>
 <article>
-  <h2>PROJECT</h2>
-  <h3><a href="https://www.shopfanpick.com/">1. 커머스 프로젝트</a></h3>
-  <h3><a href="https://studio.shopfanpick.com/">2. 스튜디오 프로젝트</a></h3>
-  <h3>3. 커뮤니티 프로젝트</h3>
-  <h3><a href="https://ai.yescms.com/">4. CMS 프로젝트</a></h3>
-  <h3>Others</h3>
+  <h1>PROJECT</h1>
+  <h2><a href="https://www.shopfanpick.com/">1. 커머스 프로젝트</a></h2>
+  <h3>1) 프론트</h3>
+  <img src="https://github.com/user-attachments/assets/fb29ae9b-5b16-46d3-ae5b-6afecfd6abb2"/>
+  <h3>2) 백 오피스</h3>
+  <img src="https://github.com/user-attachments/assets/57ef7a81-53b2-40f6-955b-5532340fca5d"/>
+  <h2><a href="https://studio.shopfanpick.com/">2. 스튜디오 프로젝트</a></h2>
+  <img src="https://github.com/user-attachments/assets/ba78ca89-bcec-4f20-8b04-a4aa5644f5bf" />
+  <h2>3. 커뮤니티 프로젝트</h2>
+  <img src="https://github.com/user-attachments/assets/06cb8195-b1b0-4ccc-a80d-6f1326754d37" />
+  <h2><a href="https://ai.yescms.com/">4. CMS 프로젝트</a></h2>
+  <img src="https://github.com/user-attachments/assets/bc6d9496-64c4-40e4-aec1-c61e41747bce" />
+  <h2>Others</h2>
 </article>
 <article>
-  <h2>EXPERIENCE</h2>
+  <h1>EXPERIENCE</h1>
   <p>
     <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=Next.js"/>
     <img src="https://img.shields.io/badge/Typescript-black?style=flat&logo=Typescript"/>
@@ -38,7 +45,7 @@
   </p>
 </article>
 <article>
-  <h2>CONTACT</h2>
+  <h1>CONTACT</h1>
   <table>
     <tbody>
       <tr>
