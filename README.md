@@ -17,10 +17,18 @@
 <article>
   <h1>PROJECT</h1>
   <h2><a href="https://www.shopfanpick.com/">1. 커머스 프로젝트</a></h2>
-  <h3>1) 프론트</h3>
-  <img src="https://github.com/user-attachments/assets/fb29ae9b-5b16-46d3-ae5b-6afecfd6abb2"/>
-  <h3>2) 백 오피스</h3>
-  <img src="https://github.com/user-attachments/assets/57ef7a81-53b2-40f6-955b-5532340fca5d"/>
+  <figure>
+    <figcaption>
+      프론트페이지
+    </figcaption>
+    <img src="https://github.com/user-attachments/assets/fb29ae9b-5b16-46d3-ae5b-6afecfd6abb2"/>
+  </figure>
+  <figure>
+    <figcaption>
+      백오피스
+    </figcaption>
+    <img src="https://github.com/user-attachments/assets/57ef7a81-53b2-40f6-955b-5532340fca5d"/>
+  </figure>
   <h2><a href="https://studio.shopfanpick.com/">2. 스튜디오 프로젝트</a></h2>
   <img src="https://github.com/user-attachments/assets/ba78ca89-bcec-4f20-8b04-a4aa5644f5bf" />
   <h2>3. 커뮤니티 프로젝트</h2>
