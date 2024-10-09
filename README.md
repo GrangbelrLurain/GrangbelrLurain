@@ -54,6 +54,30 @@
     </figcaption>
     <img src="https://github.com/user-attachments/assets/eaa642c3-8e64-4398-875a-0ca3193b30c9" />
   </figure>
+  <figure>
+    <figcaption>
+      <a href="https://cheonjiyutong.vercel.app/">CHEONJIYUTONG (2024-01)</a>
+    </figcaption>
+    <img src="https://github.com/user-attachments/assets/995c5f8b-89ad-4bcc-a8f6-469d39d68931" />
+  </figure>
+  <figure>
+    <figcaption>
+      <a href="https://outlet-ticket.vercel.app/">OUTLETTICKET (2024-01)</a>
+    </figcaption>
+    <img src="https://github.com/user-attachments/assets/7f6dd264-034c-425a-93e9-b12f32105d9d" />
+  </figure>
+  <figure>
+    <figcaption>
+      <a href="https://www.xn--b02b03n87n.com/">맥스팀 (2024-01)</a>
+    </figcaption>
+    <img src="https://github.com/user-attachments/assets/47fdd0b5-f060-4936-915d-31a2947e8283" />
+  </figure>
+  <figure>
+    <figcaption>
+      <a href="https://xn--ef5b84b66f.com/">찜앤장 (2023-10)</a>
+    </figcaption>
+    <img src="https://github.com/user-attachments/assets/2b5fec80-d26e-4e31-a5e4-56c19da5fcac" />
+  </figure>
 </article>
 <article>
   <h1>EXPERIENCE</h1>
