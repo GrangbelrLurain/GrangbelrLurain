@@ -16,10 +16,10 @@
 </article>
 <article>
   <h2>PROJECT</h2>
-  <h3>1. 커머스 프로젝트</h3>
-  <h3>2. 스튜디오 프로젝트</h3>
+  <h3><a href="https://www.shopfanpick.com/">1. 커머스 프로젝트</a></h3>
+  <h3><a href="https://studio.shopfanpick.com/">2. 스튜디오 프로젝트</a></h3>
   <h3>3. 커뮤니티 프로젝트</h3>
-  <h3>4. CMS 프로젝트</h3>
+  <h3><a href="https://ai.yescms.com/">4. CMS 프로젝트</a></h3>
   <h3>Others</h3>
 </article>
 <article>
