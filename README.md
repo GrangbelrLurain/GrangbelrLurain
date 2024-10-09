@@ -36,6 +36,24 @@
   <h2><a href="https://ai.yescms.com/">4. CMS 프로젝트</a></h2>
   <img src="https://github.com/user-attachments/assets/bc6d9496-64c4-40e4-aec1-c61e41747bce" />
   <h2>Others</h2>
+  <figure>
+    <figcaption>
+      <a href="https://www.kidcms.com/">KIDCMS (2024-08)</a>
+    </figcaption>
+    <img src="https://github.com/user-attachments/assets/c2cb04ff-4329-42c2-b2a7-913a13eba73b" />
+  </figure>
+  <figure>
+    <figcaption>
+      <a href="https://gsiko.com/">GSIKO (2024-07)</a>
+    </figcaption>
+    <img src="https://github.com/user-attachments/assets/af4018e3-e26f-4ce6-a16f-cee6ff4de939" />
+  </figure>
+  <figure>
+    <figcaption>
+      <a href="https://yescms.com/">YESCMS (2024-06)</a>
+    </figcaption>
+    <img src="https://github.com/user-attachments/assets/eaa642c3-8e64-4398-875a-0ca3193b30c9" />
+  </figure>
 </article>
 <article>
   <h1>EXPERIENCE</h1>
