@@ -1,6 +1,4 @@
-<article>
-<p>CMS 서비스 제작, 커머스 서비스 제작, 커뮤니티 서비스 제작, 백 오피스 페이지 제작 등의 경험이 있습니다.</p>
-<br/>
+<h1>About</h1>
 <p>새로운 도전하는 것을 좋아합니다.</p>
 <p>음향, 디자인, 영상 등 다양한 분야를 접했습니다.</p>
 <p>디자인 경험이 있어 화면 레이어에 대한 이해도가 있습니다.</p>
@@ -16,7 +14,43 @@
 </article>
 <article>
   <h1>PROJECT</h1>
-  <h2><a href="https://ai.yescms.com/">1. CMS 프로젝트</a></h2>
+  <h2><a href="https://www.modetour.com/">1. 여행사 프로젝트</a></h2>
+  <img src="https://github.com/user-attachments/assets/d00855ef-b17e-4d89-8033-20ac85c3730a" />
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          기간
+        </td>
+        <td>
+          2024-11~
+        </td>
+      </tr>
+      <tr>
+        <td>
+          인원
+        </td>
+        <td>
+          4인
+        </td>
+      </tr>
+      <tr>
+        <td>
+          기능
+        </td>
+        <td>
+          여행지 정보 노출, 호텔/투어 패스 신규 B2B 데이터 연결, 결제 모듈 서비스
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <ul>
+    <li>경쟁사에 비해 서비스의 양적 부족</li>
+    <li>추가 B2B 데이터 확장으로 더 많은 서비스 유치</li>
+    <li>자사 외 서비스 연결을 통한 서비스 노출 확장</li>
+    <li>FE 결제 모듈화로 결제 서비스 확장</li>
+  </ul>
+  <h2><a href="https://ai.yescms.com/">2. CMS 프로젝트</a></h2>
   <img src="https://github.com/user-attachments/assets/bc6d9496-64c4-40e4-aec1-c61e41747bce" />
   <table>
     <tbody>
@@ -57,7 +91,7 @@
     <li>경쟁사에서 해당 CMS 프로그램으로 이동 고객 확보(20여명, 꾸준히 증가)</li>
     <li>프로그램 운영 비용 대비 고객 단가가 너무 낮아 실질적 수익 확보에 많은 고객이 필요</li>
   </ul>
-  <h2>2. 커뮤니티 프로젝트</h2>
+  <h2>3. 커뮤니티 프로젝트</h2>
   <img src="https://github.com/user-attachments/assets/06cb8195-b1b0-4ccc-a80d-6f1326754d37" />
   <table>
     <tbody>
@@ -97,7 +131,7 @@
     <!--결과-->
     <li>회사 내부 사정 및 트위치 국내 중단으로 프로젝트 중단</li>
   </ul>
-  <h2><a href="https://www.shopfanpick.com/">3. 커머스 프로젝트</a></h2>
+  <h2><a href="https://www.shopfanpick.com/">4. 커머스 프로젝트</a></h2>
   <figure>
     <figcaption>
       프론트페이지
@@ -149,7 +183,7 @@
     <li>인원별 기능 단위 명확한 업무 분배로 빠르게 개발이 가능하게 됨 -> Jira로 인원별 업무를 명확히 분배하여 중간에 막히는 시간을 최소화 하고, 빠르게 업무를 진행한 사람은 다음 업무를 더 빠르게 받을 수 있게 되어 업무 효율이 개선됨</li>
     <li>하지만, Next.js로 마이그레이션 하는데 계산했던 비용보다 많이 들었음(3개월 딜레이)</li>
   </ul>
-  <h2>4. 스튜디오 프로젝트</h2>
+  <h2>5. 스튜디오 프로젝트</h2>
   <img src="https://github.com/user-attachments/assets/ba78ca89-bcec-4f20-8b04-a4aa5644f5bf" />
   <table>
     <tbody>
