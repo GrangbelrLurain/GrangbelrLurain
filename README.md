@@ -65,7 +65,7 @@ We will solve any problem by adding solutions and removing unnecessary ones.
     <tbody>
       <tr>
         <td>
-          기간
+          period
         </td>
         <td>
           2024-01~2024-09
@@ -73,40 +73,36 @@ We will solve any problem by adding solutions and removing unnecessary ones.
       </tr>
       <tr>
         <td>
-          인원
+          personnel
         </td>
         <td>
-          2인
+          2 people
         </td>
       </tr>
       <tr>
         <td>
-          기능
+          function
         </td>
         <td>
-          자동 이체, 고객 관리, 세금계산서 발송 등
+          Automatic transfers, customer management, tax invoice issuance, etc.
         </td>
       </tr>
     </tbody>
   </table>
   <ul>
-    <!--문제 정의-->
-    <li>기존 CS프로그램 노후화로 신규 고객 유치에 어려움</li>
-    <!--가설 수립-->
-    <li>CS프로그램을 웹으로 전환하고 금융결제원과 협력하여 이벤트 진행 시 경쟁사 고객 유치가 가능할 것으로 예상</li>
-    <!--액션 및 검증-->
-    <li>프로젝트 제작 및 기존 CS 수동 프로그램 자동으로 개선, 이벤트 진행으로 경쟁사 대비 저렴한 사용 단가 제공 -> 사용자 편의성 증대 및 경쟁력 확보</li>
-    <!--결과-->
-    <li>경쟁사에서 해당 CMS 프로그램으로 이동 고객 확보(20여명, 꾸준히 증가)</li>
-    <li>프로그램 운영 비용 대비 고객 단가가 너무 낮아 실질적 수익 확보에 많은 고객이 필요</li>
+    <li>Difficulty in attracting new customers due to outdated existing CS programs</li>
+    <li>It is expected that by converting CS programs to the web and cooperating with financial settlement institutions, it will be possible to attract competitors' customers when running events.</li>
+    <li>Project production and automatic improvement of existing CS manual programs, and event hosting to provide lower usage costs compared to competitors -> Increased user convenience and secured competitiveness</li>
+    <li>Acquire customers who moved from competitors to your CMS program (20+, steadily increasing)</li>
+    <li>The customer unit price is too low compared to the program's operating cost, so many customers are needed to secure actual profits.</li>
   </ul>
-  <h2>3. 커뮤니티 프로젝트</h2>
+  <h2>3. Community Projects</h2>
   <img src="https://github.com/user-attachments/assets/06cb8195-b1b0-4ccc-a80d-6f1326754d37" />
   <table>
     <tbody>
       <tr>
         <td>
-          기간
+          period
         </td>
         <td>
           2023-06~2023-10
@@ -114,42 +110,38 @@ We will solve any problem by adding solutions and removing unnecessary ones.
       </tr>
       <tr>
         <td>
-          인원
+          personnel
         </td>
         <td>
-          1인
+          1 person
         </td>
       </tr>
       <tr>
         <td>
-          기능
+          function
         </td>
         <td>
-          글 작성, 이모티콘 사용, 구독 등
+          Write posts, use emoticons, subscribe, etc.
         </td>
       </tr>
     </tbody>
   </table>
   <ul>
-    <!--문제 정의-->
-    <li>크리에이터가 사용하는 플랫폼이 파편화 되어 있어 한 플랫폼에서 굿즈/커뮤니티/방송보기 등을 할 수 없음</li>
-    <!--가설 수립-->
-    <li>크리에이터 및 팬층이 이모티콘, 스티커 등을 사용할 수 있는 플랫폼을 만들면 커머스 프로젝트와 시너지가 있을 것으로 예상</li>
-    <!--액션 및 검증-->
-    <li>커뮤니티 기능 제작, 기본 구독 기능으로 이모티콘 기능 제작</li>
-    <!--결과-->
-    <li>회사 내부 사정 및 트위치 국내 중단으로 프로젝트 중단</li>
+    <li>The platforms used by creators are fragmented, making it impossible to access goods/communities/view broadcasts on one platform.</li>
+    <li>If we create a platform where creators and fans can use emoticons, stickers, etc., we expect there to be synergy with commerce projects.</li>
+    <li>Create community features, create emoticon features as basic subscription features</li>
+    <li>Project suspended due to internal company circumstances and Twitch's domestic suspension</li>
   </ul>
-  <h2><a href="https://www.shopfanpick.com/">4. 커머스 프로젝트</a></h2>
+  <h2><a href="https://www.shopfanpick.com/">4. Commerce Project</a></h2>
   <figure>
     <figcaption>
-      프론트페이지
+      ront Page
     </figcaption>
     <img src="https://github.com/user-attachments/assets/fb29ae9b-5b16-46d3-ae5b-6afecfd6abb2"/>
   </figure>
   <figure>
     <figcaption>
-      백오피스
+      Back Office
     </figcaption>
     <img src="https://github.com/user-attachments/assets/57ef7a81-53b2-40f6-955b-5532340fca5d"/>
   </figure>
@@ -157,7 +149,7 @@ We will solve any problem by adding solutions and removing unnecessary ones.
     <tbody>
       <tr>
         <td>
-          기간
+          period
         </td>
         <td>
           2022-04~2022-12
@@ -165,40 +157,36 @@ We will solve any problem by adding solutions and removing unnecessary ones.
       </tr>
       <tr>
         <td>
-          인원
+          personnel
         </td>
         <td>
-          4인(메인 2인)
+          4 people (2 main)
         </td>
       </tr>
       <tr>
         <td>
-          기능
+          function
         </td>
         <td>
-          크리에이터별 스토어, 게시판, 판매, 투표 등
+          Creator-specific stores, bulletin boards, sales, voting, etc.
         </td>
       </tr>
     </tbody>
   </table>
   <ul>
-    <!--문제 정의-->
-    <li>기존 React.js로 제작된 프로젝트 구조가 파편화 되어 있었음</li>
-    <!--가설 수립-->
-    <li>기존 프로젝트를 개선하는 비용이 신규 프로젝트를 진행하는 비용보다 높다는 판단에 Next.js로 신규 프로젝트를 진행하게 됨</li>
-    <!--액션 및 검증-->
-    <li>기존 멀티레포 구조를 모노레포로 변경하고 Next.js에서 Prisma를 사용하여 프론트/백 통합 Type지원하도록 프로젝트 구조가 만들어짐으로 인원별 프로젝트 분배가 명확해짐</li>
-    <!--결과-->
-    <li>인원별 기능 단위 명확한 업무 분배로 빠르게 개발이 가능하게 됨 -> Jira로 인원별 업무를 명확히 분배하여 중간에 막히는 시간을 최소화 하고, 빠르게 업무를 진행한 사람은 다음 업무를 더 빠르게 받을 수 있게 되어 업무 효율이 개선됨</li>
-    <li>하지만, Next.js로 마이그레이션 하는데 계산했던 비용보다 많이 들었음(3개월 딜레이)</li>
+    <li>The existing React.js project structure was fragmented.</li>
+    <li>We decided to start a new project with Next.js because we thought the cost of improving an existing project was higher than the cost of starting a new project.</li>
+    <li>The existing multi-repo structure was changed to a mono-repo, and the project structure was created to support front/back integration type using Prisma in Next.js, making the project distribution by personnel clearer.</li>
+    <li>Clear distribution of work by functional unit per person enables rapid development -> By clearly distributing work by person with Jira, time lost in the middle is minimized, and those who quickly complete work can receive the next work more quickly, improving work efficiency.</li>
+    <li>However, the migration to Next.js cost more than we had calculated (3 months delay)</li>
   </ul>
-  <h2>5. 스튜디오 프로젝트</h2>
+  <h2>5. Studio Project</h2>
   <img src="https://github.com/user-attachments/assets/ba78ca89-bcec-4f20-8b04-a4aa5644f5bf" />
   <table>
     <tbody>
       <tr>
         <td>
-          기간
+          period
         </td>
         <td>
           2022-05~2023-02
@@ -206,32 +194,28 @@ We will solve any problem by adding solutions and removing unnecessary ones.
       </tr>
       <tr>
         <td>
-          인원
+          personnel
         </td>
         <td>
-          4인(메인 1인)
+          4 people (1 main person)
         </td>
       </tr>
       <tr>
         <td>
-          기능
+          function
         </td>
         <td>
-          샵 관리, 상품 관리, 정산 등
+          Shop management, product management, settlement, etc.
         </td>
       </tr>
     </tbody>
   </table>
   <ul>
-    <!--문제 정의-->
-    <li>커머스 페이지에 크리에이터가 판매 통계 및 상품 관리를 할 수 있는 관리자 기능이 없었음</li>
-    <!--가설 수립-->
-    <li>마플 등 다른 굿즈 판매 사이트에 비해 경쟁우위를 갖기 위해서는 데이터 확보 및 분석이 필요하고, 각 크리에이터에게 관리자 기능이 필요하다고 생각됨</li>
-    <!--액션 및 검증-->
-    <li>스튜디오 페이지를 제작, 각 크리에이터의 정산 정보 등을 스스로 관리할 수 있도록 구성, 주/월/분/연간 통계 제공</li>
-    <!--결과-->
-    <li>굿즈 판매 결과를 눈으로 확인하고 정산이 명확해짐 -> 크리에이터 판단에 판매가 많이 된 굿즈는 신규 프로젝트 진행됨 -> 매출 증가</li>
-    <li>하지만, 스튜디오 프로젝트 제작으로 인해 인원이 분산되어 커머스 프로젝트에서 딜레이가 있었음</li>
+    <li>The commerce page did not have an administrator function that allowed creators to manage sales statistics and products.</li>
+    <li>In order to have a competitive edge over other goods sales sites such as Maple, it is necessary to secure and analyze data, and each creator needs an administrator function.</li>
+    <li>Create a studio page, configure it so that each creator can manage their own settlement information, and provide weekly/monthly/minute/yearly statistics.</li>
+    <li>The results of goods sales are confirmed visually and settlement becomes clear -> goods that the creator judges to have sold well are used for new projects -> sales increase</li>
+    <li>However, there was a delay in the commerce project due to the staff being dispersed due to the production of the studio project.</li>
   </ul>
   <h2>Others</h2>
   <table>
@@ -248,7 +232,7 @@ We will solve any problem by adding solutions and removing unnecessary ones.
         <td>
           <figure>
             <figcaption>
-              <a href="https://gsiko.com/">GSIKO (2024-07)</a>
+              <a href="https://gsiko.com/" target="_blank">GSIKO (2024-07)</a>
             </figcaption>
             <img src="https://github.com/user-attachments/assets/af4018e3-e26f-4ce6-a16f-cee6ff4de939" />
           </figure>
@@ -258,7 +242,7 @@ We will solve any problem by adding solutions and removing unnecessary ones.
         <td>
           <figure>
             <figcaption>
-              <a href="https://yescms.com/">YESCMS (2024-06)</a>
+              <a href="https://yescms.com/" target="_blank">YESCMS (2024-06)</a>
             </figcaption>
             <img src="https://github.com/user-attachments/assets/eaa642c3-8e64-4398-875a-0ca3193b30c9" />
           </figure>
@@ -266,7 +250,7 @@ We will solve any problem by adding solutions and removing unnecessary ones.
         <td>
           <figure>
             <figcaption>
-              <a href="https://cheonjiyutong.vercel.app/">CHEONJIYUTONG (2024-01)</a>
+              <a href="https://cheonjiyutong.vercel.app/" target="_blank">CHEONJIYUTONG (2024-01)</a>
             </figcaption>
             <img src="https://github.com/user-attachments/assets/995c5f8b-89ad-4bcc-a8f6-469d39d68931" />
           </figure>
@@ -276,7 +260,7 @@ We will solve any problem by adding solutions and removing unnecessary ones.
         <td>
           <figure>
             <figcaption>
-              <a href="https://outlet-ticket.vercel.app/">OUTLETTICKET (2024-01)</a>
+              <a href="https://outlet-ticket.vercel.app/" target="_blank">OUTLETTICKET (2024-01)</a>
             </figcaption>
             <img src="https://github.com/user-attachments/assets/7f6dd264-034c-425a-93e9-b12f32105d9d" />
           </figure>
@@ -284,17 +268,7 @@ We will solve any problem by adding solutions and removing unnecessary ones.
         <td>
           <figure>
             <figcaption>
-              <a href="https://www.xn--b02b03n87n.com/">맥스팀 (2024-01)</a>
-            </figcaption>
-            <img src="https://github.com/user-attachments/assets/47fdd0b5-f060-4936-915d-31a2947e8283" />
-          </figure>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <figure>
-            <figcaption>
-              <a href="https://xn--ef5b84b66f.com/">찜앤장 (2023-10)</a>
+              <a href="https://xn--ef5b84b66f.com/" target="_blank">찜앤장 (2023-10)</a>
             </figcaption>
             <img src="https://github.com/user-attachments/assets/2b5fec80-d26e-4e31-a5e4-56c19da5fcac" />
           </figure>
