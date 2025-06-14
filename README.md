@@ -1,26 +1,35 @@
 <h1>About</h1>
-<p>새로운 도전하는 것을 좋아합니다.</p>
-<p>음향, 디자인, 영상 등 다양한 분야를 접했습니다.</p>
-<p>디자인 경험이 있어 화면 레이어에 대한 이해도가 있습니다.</p>
-<br/>
-<p>서비스는 이용자를 위해 존재합니다.</p>
-<p>이용자가 필요로 하는 개선 사항이 모든 서비스의 지향점이라고 생각합니다.</p>
-<p>개발자로서 살아있는 서비스를 만들어나갑니다.</p>
-<br/>
-<p>정확한 문제 해결을 선호합니다.</p>
-<p>이슈가 발생했을 때 발생 원인을 정확히 파악하고 해결하려고 합니다.</p>
-<p>비즈니스의 문제점을 돌파하고, 해결책을 찾아내는 것이 개발자의 덕목이라고 생각합니다.</p>
-<p>어떤 이슈든 해결책을 더하고 불필요한 것은 빼며 문제를 해결해나가겠습니다.</p>
+I love taking on new challenges.
+
+I have been exposed to various fields such as sound, design, and video.
+
+I have design experience so I have an understanding of screen layers.
+
+
+Services exist for the users.
+
+I believe that the improvements that users need are the goal of all services.
+
+As a developer, I create living services.
+
+
+I prefer precise problem solving.
+
+When an issue occurs, we try to accurately identify the cause and resolve it.
+
+I believe that it is a developer's virtue to overcome business problems and find solutions.
+
+We will solve any problem by adding solutions and removing unnecessary ones.
 </article>
 <article>
   <h1>PROJECT</h1>
-  <h2><a href="https://www.modetour.com/">1. 여행사 프로젝트</a></h2>
+  <h2><a href="https://www.modetour.com/">1. Travel Agency Project</a></h2>
   <img src="https://github.com/user-attachments/assets/d00855ef-b17e-4d89-8033-20ac85c3730a" />
   <table>
     <tbody>
       <tr>
         <td>
-          기간
+          period
         </td>
         <td>
           2024-11~
@@ -28,29 +37,29 @@
       </tr>
       <tr>
         <td>
-          인원
+          personnel
         </td>
         <td>
-          4인
+          4 people
         </td>
       </tr>
       <tr>
         <td>
-          기능
+          function
         </td>
         <td>
-          여행지 정보 노출, 호텔/투어 패스 신규 B2B 데이터 연결, 결제 모듈 서비스
+          Exposure of travel destination information, new B2B data connection for hotel/tour pass, payment module service
         </td>
       </tr>
     </tbody>
   </table>
   <ul>
-    <li>경쟁사에 비해 서비스의 양적 부족</li>
-    <li>추가 B2B 데이터 확장으로 더 많은 서비스 유치</li>
-    <li>자사 외 서비스 연결을 통한 서비스 노출 확장</li>
-    <li>FE 결제 모듈화로 결제 서비스 확장</li>
+    <li>Quantitative lack of service compared to competitors</li>
+    <li>Attract more services with additional B2B data expansion</li>
+    <li>Expanding service exposure through connection to external services</li>
+    <li>Expanding payment services with FE payment modularization</li>
   </ul>
-  <h2><a href="https://ai.yescms.com/">2. CMS 프로젝트</a></h2>
+  <h2><a href="https://ai.yescms.com/">2. CMS Project</a></h2>
   <img src="https://github.com/user-attachments/assets/bc6d9496-64c4-40e4-aec1-c61e41747bce" />
   <table>
     <tbody>
