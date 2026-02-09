@@ -1,317 +1,122 @@
-<h1>About</h1>
-I love taking on new challenges.
+# About Me
 
-I have been exposed to various fields such as sound, design, and video.
+<p align="center">
+  <a href="#korean">한국어</a> | <a href="#english">English</a>
+</p>
 
-I have design experience so I have an understanding of screen layers.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GrangbelrLurain&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrangbelrLurain&theme=radical&hide_border=true" />
+</p>
 
+---
 
-Services exist for the users.
+<div id="korean">
 
-I believe that the improvements that users need are the goal of all services.
+## 🚀 안녕하세요, 사용자 중심의 서비스를 만드는 개발자 김규연입니다.
 
-As a developer, I create living services.
+### 👤 About Me
+> **"사용자가 필요로 하는 개선사항이 곧 서비스의 목표입니다."**
 
+* 🎨 **다양한 감각:** 사운드, 디자인, 영상 등 여러 분야를 경험하여 화면 레이어와 사용자 경험에 대한 높은 이해도를 가지고 있습니다.
+* 🛠 **정밀한 문제 해결:** 이슈 발생 시 정확한 원인 파악을 최우선으로 하며, 비즈니스 문제를 기술로 해결하는 것을 개발자의 숙명이라 믿습니다.
+* 🌱 **생동감 있는 서비스:** 단순히 돌아가는 코드가 아닌, 사용자의 편의성을 더하고 불필요함을 덜어낸 '살아있는 서비스'를 만듭니다.
 
-I prefer precise problem solving.
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</p>
 
-When an issue occurs, we try to accurately identify the cause and resolve it.
+### 📂 Featured Projects
 
-I believe that it is a developer's virtue to overcome business problems and find solutions.
+#### 1. [모두투어 트래블 에이전시](https://www.modetour.com/) (2024.11 ~ 현재)
+* **주요 기능:** 목적지 정보 노출, B2B 데이터 연동(호텔/패스), 결제 모듈화
+* **Key Achievements:** * 외부 서비스 연동을 통한 서비스 노출 범위 확장
+  * FE 결제 모듈화를 통해 결제 시스템 확장성 확보
 
-We will solve any problem by adding solutions and removing unnecessary ones.
-</article>
-<article>
-  <h1>PROJECT</h1>
-  <h2><a href="https://www.modetour.com/">1. Travel Agency Project</a></h2>
-  <img src="https://github.com/user-attachments/assets/d00855ef-b17e-4d89-8033-20ac85c3730a" />
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          period
-        </td>
-        <td>
-          2024-11~
-        </td>
-      </tr>
-      <tr>
-        <td>
-          personnel
-        </td>
-        <td>
-          4 people
-        </td>
-      </tr>
-      <tr>
-        <td>
-          function
-        </td>
-        <td>
-          Exposure of travel destination information, new B2B data connection for hotel/tour pass, payment module service
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <ul>
-    <li>Quantitative lack of service compared to competitors</li>
-    <li>Attract more services with additional B2B data expansion</li>
-    <li>Expanding service exposure through connection to external services</li>
-    <li>Expanding payment services with FE payment modularization</li>
-  </ul>
-  <h2><a href="https://ai.yescms.com/">2. CMS Project</a></h2>
-  <img src="https://github.com/user-attachments/assets/bc6d9496-64c4-40e4-aec1-c61e41747bce" />
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          period
-        </td>
-        <td>
-          2024-01~2024-09
-        </td>
-      </tr>
-      <tr>
-        <td>
-          personnel
-        </td>
-        <td>
-          2 people
-        </td>
-      </tr>
-      <tr>
-        <td>
-          function
-        </td>
-        <td>
-          Automatic transfers, customer management, tax invoice issuance, etc.
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <ul>
-    <li>Difficulty in attracting new customers due to outdated existing CS programs</li>
-    <li>It is expected that by converting CS programs to the web and cooperating with financial settlement institutions, it will be possible to attract competitors' customers when running events.</li>
-    <li>Project production and automatic improvement of existing CS manual programs, and event hosting to provide lower usage costs compared to competitors -> Increased user convenience and secured competitiveness</li>
-    <li>Acquire customers who moved from competitors to your CMS program (20+, steadily increasing)</li>
-    <li>The customer unit price is too low compared to the program's operating cost, so many customers are needed to secure actual profits.</li>
-  </ul>
-  <h2>3. Community Projects</h2>
-  <img src="https://github.com/user-attachments/assets/06cb8195-b1b0-4ccc-a80d-6f1326754d37" />
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          period
-        </td>
-        <td>
-          2023-06~2023-10
-        </td>
-      </tr>
-      <tr>
-        <td>
-          personnel
-        </td>
-        <td>
-          1 person
-        </td>
-      </tr>
-      <tr>
-        <td>
-          function
-        </td>
-        <td>
-          Write posts, use emoticons, subscribe, etc.
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <ul>
-    <li>The platforms used by creators are fragmented, making it impossible to access goods/communities/view broadcasts on one platform.</li>
-    <li>If we create a platform where creators and fans can use emoticons, stickers, etc., we expect there to be synergy with commerce projects.</li>
-    <li>Create community features, create emoticon features as basic subscription features</li>
-    <li>Project suspended due to internal company circumstances and Twitch's domestic suspension</li>
-  </ul>
-  <h2><a href="https://www.shopfanpick.com/">4. Commerce Project</a></h2>
-  <figure>
-    <figcaption>
-      ront Page
-    </figcaption>
-    <img src="https://github.com/user-attachments/assets/fb29ae9b-5b16-46d3-ae5b-6afecfd6abb2"/>
-  </figure>
-  <figure>
-    <figcaption>
-      Back Office
-    </figcaption>
-    <img src="https://github.com/user-attachments/assets/57ef7a81-53b2-40f6-955b-5532340fca5d"/>
-  </figure>
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          period
-        </td>
-        <td>
-          2022-04~2022-12
-        </td>
-      </tr>
-      <tr>
-        <td>
-          personnel
-        </td>
-        <td>
-          4 people (2 main)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          function
-        </td>
-        <td>
-          Creator-specific stores, bulletin boards, sales, voting, etc.
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <ul>
-    <li>The existing React.js project structure was fragmented.</li>
-    <li>We decided to start a new project with Next.js because we thought the cost of improving an existing project was higher than the cost of starting a new project.</li>
-    <li>The existing multi-repo structure was changed to a mono-repo, and the project structure was created to support front/back integration type using Prisma in Next.js, making the project distribution by personnel clearer.</li>
-    <li>Clear distribution of work by functional unit per person enables rapid development -> By clearly distributing work by person with Jira, time lost in the middle is minimized, and those who quickly complete work can receive the next work more quickly, improving work efficiency.</li>
-    <li>However, the migration to Next.js cost more than we had calculated (3 months delay)</li>
-  </ul>
-  <h2>5. Studio Project</h2>
-  <img src="https://github.com/user-attachments/assets/ba78ca89-bcec-4f20-8b04-a4aa5644f5bf" />
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          period
-        </td>
-        <td>
-          2022-05~2023-02
-        </td>
-      </tr>
-      <tr>
-        <td>
-          personnel
-        </td>
-        <td>
-          4 people (1 main person)
-        </td>
-      </tr>
-      <tr>
-        <td>
-          function
-        </td>
-        <td>
-          Shop management, product management, settlement, etc.
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <ul>
-    <li>The commerce page did not have an administrator function that allowed creators to manage sales statistics and products.</li>
-    <li>In order to have a competitive edge over other goods sales sites such as Maple, it is necessary to secure and analyze data, and each creator needs an administrator function.</li>
-    <li>Create a studio page, configure it so that each creator can manage their own settlement information, and provide weekly/monthly/minute/yearly statistics.</li>
-    <li>The results of goods sales are confirmed visually and settlement becomes clear -> goods that the creator judges to have sold well are used for new projects -> sales increase</li>
-    <li>However, there was a delay in the commerce project due to the staff being dispersed due to the production of the studio project.</li>
-  </ul>
-  <h2>Others</h2>
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <figure>
-            <figcaption>
-              <a href="https://www.kidcms.com/">KIDCMS (2024-08)</a>
-            </figcaption>
-            <img src="https://github.com/user-attachments/assets/c2cb04ff-4329-42c2-b2a7-913a13eba73b" />
-          </figure>
-        </td>
-        <td>
-          <figure>
-            <figcaption>
-              <a href="https://gsiko.com/" target="_blank">GSIKO (2024-07)</a>
-            </figcaption>
-            <img src="https://github.com/user-attachments/assets/af4018e3-e26f-4ce6-a16f-cee6ff4de939" />
-          </figure>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <figure>
-            <figcaption>
-              <a href="https://yescms.com/" target="_blank">YESCMS (2024-06)</a>
-            </figcaption>
-            <img src="https://github.com/user-attachments/assets/eaa642c3-8e64-4398-875a-0ca3193b30c9" />
-          </figure>
-        </td>
-        <td>
-          <figure>
-            <figcaption>
-              <a href="https://cheonjiyutong.vercel.app/" target="_blank">CHEONJIYUTONG (2024-01)</a>
-            </figcaption>
-            <img src="https://github.com/user-attachments/assets/995c5f8b-89ad-4bcc-a8f6-469d39d68931" />
-          </figure>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <figure>
-            <figcaption>
-              <a href="https://outlet-ticket.vercel.app/" target="_blank">OUTLETTICKET (2024-01)</a>
-            </figcaption>
-            <img src="https://github.com/user-attachments/assets/7f6dd264-034c-425a-93e9-b12f32105d9d" />
-          </figure>
-        </td>
-        <td>
-          <figure>
-            <figcaption>
-              <a href="https://xn--ef5b84b66f.com/" target="_blank">찜앤장 (2023-10)</a>
-            </figcaption>
-            <img src="https://github.com/user-attachments/assets/2b5fec80-d26e-4e31-a5e4-56c19da5fcac" />
-          </figure>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</article>
-<article>
-  <h1>EXPERIENCE</h1>
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=Next.js"/>
-    <img src="https://img.shields.io/badge/Typescript-black?style=flat&logo=Typescript"/>
-    <img src="https://img.shields.io/badge/React.js-black?style=flat&logo=React"/>
-    <img src="https://img.shields.io/badge/Prisma-black?style=flat&logo=Prisma"/>
-    <img src="https://img.shields.io/badge/TypeORM-black?style=flat&"/>
-    <img src="https://img.shields.io/badge/ES6-black?style=flat&logo=Javascript"/>
-    <img src="https://img.shields.io/badge/Tailwind.css-black?style=flat&logo=TailwindCss"/>
-    <img src="https://img.shields.io/badge/Scss-black?style=flat&logo=sass"/>
-    <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3"/>
-    <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5" />
-  </p>
-</article>
-<article>
-  <h1>CONTACT</h1>
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <p>Email</p>
-        </td>
-        <td>
-          <a href="mailto:lurain003@gmail.com">lurain003@gmail.com</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <p>Phone</p>
-        </td>
-        <td>
-          <a href="tel:01023006059">+8210-2300-6059</a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</article>
+#### 2. [AI YESCMS 프로젝트](https://ai.yescms.com/) (2024.01 ~ 2024.09)
+* **주요 기능:** 자동이체, 고객 관리, 세금계산서 자동 발행
+* **Key Achievements:** * 기존 노후화된 CS 프로그램을 웹으로 전환하여 경쟁력 확보
+  * **신규 고객 20개사 이상 유입** 및 지속적 증가세 달성
+
+#### 3. [Fanpick 커머스 & 스튜디오](https://www.shopfanpick.com/) (2022.04 ~ 2023.02)
+* **주요 기능:** 크리에이터 전용 스토어, 판매 통계 백오피스(Studio)
+* **Key Achievements:** * **Mono-repo 도입:** Multi-repo를 하나로 통합하여 개발 효율성 극대화
+  * **Next.js + Prisma 전환:** 프론트/백엔드 통합 구조로 인력 배분 최적화 및 빠른 기능 개발 가능
+
+<details>
+<summary><b>🔍 더 많은 프로젝트 보기</b></summary>
+
+| KIDCMS | GSIKO | YESCMS | 찜앤장 |
+| :---: | :---: | :---: | :---: |
+| [링크](https://www.kidcms.com/) | [링크](https://gsiko.com/) | [링크](https://yescms.com/) | [링크](https://xn--ef5b84b66f.com/) |
+
+</details>
+
+---
+
+<div id="english">
+  
+## 🚀 Global-Minded Developer: Kim KyuYeon
+
+### "Building Living Services Focused on User Needs"
+
+### 👤 About Me
+> **"The improvements that users need are the ultimate goal of all services."**
+
+* 🎨 **Multidisciplinary Background:** Experienced in sound, design, and video, leading to a profound understanding of screen layers and User Experience (UX).
+* 🛠 **Precise Problem Solver:** Prioritizes identifying root causes when issues arise, believing that a developer's virtue is solving business problems through technical excellence.
+* 🌱 **Living Services:** I create "living services" that go beyond just functioning code—by adding essential convenience and removing unnecessary complexities for users.
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</p>
+
+### 📂 Featured Projects
+
+#### 1. [Modetour Travel Agency Project](https://www.modetour.com/) (2024.11 ~ Present)
+* **Core Functions:** Travel destination data display, B2B data integration (Hotels/Tour Passes), Payment module services.
+* **Key Achievements:** * Expanded service exposure by integrating various external B2B APIs.
+  * Secured system scalability through the **modularization of Front-end payment systems**.
+
+#### 2. [AI YESCMS Project](https://ai.yescms.com/) (2024.01 ~ 2024.09)
+* **Core Functions:** Automatic transfers, Customer management, Automated tax invoice issuance.
+* **Key Achievements:** * Secured competitive edge by migrating outdated legacy CS programs to a modern Web environment.
+  * Successfully **acquired 20+ new corporate clients** with a steady increase in user retention.
+
+#### 3. [Fanpick Commerce & Studio](https://www.shopfanpick.com/) (2022.04 ~ 2023.02)
+* **Core Functions:** Creator-specific stores, Back-office for sales statistics (Studio).
+* **Key Achievements:** * **Mono-repo Implementation:** Maximized development efficiency by consolidating multi-repo structures into one.
+  * **Next.js + Prisma Migration:** Optimized resource allocation and accelerated feature delivery by integrating Front-end and Back-end workflows.
+
+<details>
+<summary><b>🔍 View More Projects</b></summary>
+
+| KIDCMS | GSIKO | YESCMS | Jjim-N-Jang |
+| :---: | :---: | :---: | :---: |
+| [Link](https://www.kidcms.com/) | [Link](https://gsiko.com/) | [Link](https://yescms.com/) | [Link](https://xn--ef5b84b66f.com/) |
+
+</details>
+
+---
+
+### 📫 Contact
+* **Email:** [lurain003@gmail.com](mailto:lurain003@gmail.com)
+* **Phone:** +8210-2300-6059
+* **GitHub:** [@GrangbelrLurain](https://github.com/GrangbelrLurain)
