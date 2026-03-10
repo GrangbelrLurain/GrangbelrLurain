@@ -14,22 +14,22 @@
 
 <div id="korean">
 
-## 🚀 안녕하세요, 사용자 중심의 서비스를 만드는 개발자 김규연입니다.
+## 🚀 비즈니스 확장을 이끄는 프론트엔드 아키텍트 & PL, 김규연입니다.
 
 ### 👤 About Me
-> **"사용자가 필요로 하는 개선사항이 곧 서비스의 목표입니다."**
+> **"비즈니스의 요구사항을 탄탄한 아키텍처와 개발 생산성으로 증명합니다."**
 
-* 🎨 **다양한 감각:** 사운드, 디자인, 영상 등 여러 분야를 경험하여 화면 레이어와 사용자 경험에 대한 높은 이해도를 가지고 있습니다.
-* 🛠 **정밀한 문제 해결:** 이슈 발생 시 정확한 원인 파악을 최우선으로 하며, 비즈니스 문제를 기술로 해결하는 것을 개발자의 숙명이라 믿습니다.
-* 🌱 **생동감 있는 서비스:** 단순히 돌아가는 코드가 아닌, 사용자의 편의성을 더하고 불필요함을 덜어낸 '살아있는 서비스'를 만듭니다.
+* 🏗 **비즈니스 중심의 아키텍처 설계:** B2C 서비스의 B2B 확장 등 복잡해지는 비즈니스 요구사항을 모노레포(Monorepo)와 멀티 테넌트(Multi-tenant) 구조 등 구조적 해결책으로 풀어내는 데 능숙합니다.
+* 🛠 **개발 환경 최적화 및 리딩:** 4년 차 프론트엔드 PL로서 팀의 생산성을 저해하는 병목(의존성 꼬임, 빌드 속도 등)을 주도적으로 파악하고 해결(Yarn → pnpm 등)하여 쾌적한 개발 환경을 구축합니다.
+* 🎨 **다방면의 UX 이해도:** 사운드, 디자인, 영상 등 여러 분야를 경험하여 화면 레이어와 사용자 경험(UX)에 대한 높은 직관력을 바탕으로 '살아있는 서비스'를 만듭니다.
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -38,19 +38,23 @@
 ### 📂 Featured Projects
 
 #### 1. [모두투어 트래블 에이전시](https://www.modetour.com/) (2024.11 ~ 현재)
-* **주요 기능:** 목적지 정보 노출, B2B 데이터 연동(호텔/패스), 결제 모듈화
-* **Key Achievements:** * 외부 서비스 연동을 통한 서비스 노출 범위 확장
-  * FE 결제 모듈화를 통해 결제 시스템 확장성 확보
+* **주요 역할:** FE PL (프론트엔드 리드 및 아키텍처 개편)
+* **주요 과제:** 기존 B2C 전용 FE 앱을 B2B 파트너사용으로 확장 및 멀티 테넌트 셋업
+* **🔥 Key Achievements:** * **모노레포(Monorepo) 기반 통합 아키텍처 구축:** 기존 PC/MO 단일 앱을 모노레포로 전환하여 B2C, Best Partner, Online Best Partner 3개의 앱으로 분리 및 통합 관리. `pages` 단위의 import만으로 신규 서비스 뷰를 구성할 수 있도록 컴포넌트 재사용성 극대화.
+  * **런타임 환경 기반 전역 상태 제어:** 빌드 타임이 아닌 런타임에 `env`와 `init data`를 주입받고, 이를 Redux Context와 연동하여 커스터마이징이 필요한 전역 뷰(View)를 동적으로 제어하는 유연한 구조 설계.
+  * **패키지 매니저 전환(Yarn → pnpm) 및 빌드 최적화:** Yarn 환경에서 발생하던 패키지 의존성 꼬임 문제를 pnpm 도입으로 해결하여 빌드 안정성 확보 및 빌드 속도 개선.
+  * **결제 시스템 모듈화:** B2B 데이터 연동(호텔/패스) 및 프론트엔드 결제 모듈화를 통한 결제 시스템 확장성 확보.
 
 #### 2. [AI YESCMS 프로젝트](https://ai.yescms.com/) (2024.01 ~ 2024.09)
-* **주요 기능:** 자동이체, 고객 관리, 세금계산서 자동 발행
-* **Key Achievements:** * 기존 노후화된 CS 프로그램을 웹으로 전환하여 경쟁력 확보
-  * **신규 고객 20개사 이상 유입** 및 지속적 증가세 달성
+* **주요 역할:** 프론트엔드 개발 및 레거시 전환
+* **주요 기능:** 자동이체, 고객 관리, 세금계산서 자동 발행 등 통합 관리 시스템
+* **Key Achievements:** * 기존 노후화된 설치형 CS 프로그램을 모던 웹 환경으로 성공적으로 마이그레이션하여 제품 경쟁력 확보.
+  * UX/UI 개편 및 사용성 개선을 통해 **신규 고객 20개사 이상 유입** 및 지속적인 리텐션 증가세 달성.
 
 #### 3. [Fanpick 커머스 & 스튜디오](https://www.shopfanpick.com/) (2022.04 ~ 2023.02)
-* **주요 기능:** 크리에이터 전용 스토어, 판매 통계 백오피스(Studio)
-* **Key Achievements:** * **Mono-repo 도입:** Multi-repo를 하나로 통합하여 개발 효율성 극대화
-  * **Next.js + Prisma 전환:** 프론트/백엔드 통합 구조로 인력 배분 최적화 및 빠른 기능 개발 가능
+* **주요 기능:** 크리에이터 전용 커머스 스토어 및 판매 통계 백오피스(Studio)
+* **Key Achievements:** * **Mono-repo 도입:** 파편화된 Multi-repo 환경을 하나로 통합하여 프론트엔드 자원 관리 및 개발 효율성 극대화.
+  * **Next.js + Prisma 기반 풀스택 구조 도입:** 프론트엔드와 백엔드의 통합 구조를 설계하여 인력 배분 최적화 및 빠른 피쳐(Feature) 단위 개발 사이클 확보.
 
 <details>
 <summary><b>🔍 더 많은 프로젝트 보기</b></summary>
@@ -60,6 +64,9 @@
 | [링크](https://www.kidcms.com/) | [링크](https://gsiko.com/) | [링크](https://yescms.com/) | [링크](https://xn--ef5b84b66f.com/) |
 
 </details>
+
+</div>
+
 
 ---
 
