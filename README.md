@@ -44,13 +44,13 @@
   * **런타임 환경 기반 전역 상태 제어:** 빌드 타임이 아닌 런타임에 `env`와 `init data`를 주입받고, 이를 Redux Context와 연동하여 커스터마이징이 필요한 전역 뷰(View)를 동적으로 제어하는 유연한 구조 설계.
   * **패키지 매니저 전환(Yarn → pnpm) 및 빌드 최적화:** Yarn 환경에서 발생하던 패키지 의존성 꼬임 문제를 pnpm 도입으로 해결하여 빌드 안정성 확보 및 빌드 속도 개선.
 
-#### 2. [AI YESCMS 프로젝트](https://ai.yescms.com/) (2024.01 ~ 2024.09)
+#### 2. [AI YESCMS 프로젝트](https://ai.yescms.com/) (2024.01 ~ 2024.10)
 * **주요 역할:** 프론트엔드 개발 및 레거시 전환
 * **주요 기능:** 자동이체, 고객 관리, 세금계산서 자동 발행 등 통합 관리 시스템
 * **Key Achievements:** * 기존 노후화된 설치형 CS 프로그램을 모던 웹 환경으로 성공적으로 마이그레이션하여 제품 경쟁력 확보.
   * UX/UI 개편 및 사용성 개선을 통해 **신규 고객 20개사 이상 유입** 및 지속적인 리텐션 증가세 달성.
 
-#### 3. [Fanpick 커머스 & 스튜디오](https://www.shopfanpick.com/) (2022.04 ~ 2023.02)
+#### 3. [Fanpick 커머스 & 스튜디오](https://www.shopfanpick.com/) (2022.04 ~ 2023.12)
 * **주요 기능:** 크리에이터 전용 커머스 스토어 및 판매 통계 백오피스(Studio)
 * **Key Achievements:** * **Mono-repo 도입:** 파편화된 Multi-repo 환경을 하나로 통합하여 프론트엔드 자원 관리 및 개발 효율성 극대화.
   * **Next.js + Prisma 기반 풀스택 구조 도입:** 프론트엔드와 백엔드의 통합 구조를 설계하여 인력 배분 최적화 및 빠른 피쳐(Feature) 단위 개발 사이클 확보.
@@ -93,13 +93,13 @@
   * **Runtime Config & Dynamic View Control:** Designed a flexible architecture that injects `env` and `init data` at runtime (rather than build time). Integrated this with Redux Context to dynamically control and customize global views based on the service environment.
   * **Build & DX Optimization (Yarn to pnpm):** Spearheaded the migration from Yarn to pnpm, successfully resolving chronic dependency entanglement (phantom dependencies), thereby securing build stability and significantly accelerating build speeds.
 
-#### 2. [AI YESCMS Project](https://ai.yescms.com/) (2024.01 ~ 2024.09)
+#### 2. [AI YESCMS Project](https://ai.yescms.com/) (2024.01 ~ 2024.10)
 * **Role:** Front-End Engineer
 * **Core Functions:** Integrated management system for auto-transfers, CRM, and automated tax invoicing.
 * **Key Achievements:** * Successfully modernized an outdated, installable legacy CS program into a modern web environment, restoring product competitiveness.
   * Revamped the UI/UX, leading to the **acquisition of 20+ new corporate clients** and a steady increase in user retention.
 
-#### 3. [Fanpick Commerce & Studio](https://www.shopfanpick.com/) (2022.04 ~ 2023.02)
+#### 3. [Fanpick Commerce & Studio](https://www.shopfanpick.com/) (2022.04 ~ 2023.12)
 * **Role:** Front-End Engineer
 * **Core Functions:** Creator-specific commerce stores and sales statistics back-office (Studio).
 * **Key Achievements:** * **Mono-repo Implementation:** Consolidated a fragmented multi-repo environment into a single workspace, maximizing front-end resource management and development efficiency.
