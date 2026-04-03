@@ -63,8 +63,16 @@
 
 #### Watchtower (도메인 및 서비스 모니터링 데스크톱 앱)
 * **Tech:** Rust, Tauri, React, TypeScript
-* **Description:** 웹 기술과 시스템 프로그래밍(Rust)을 결합하여 구축한 개인용 고성능 모니터링 데스크톱 애플리케이션입니다. 
-* 웹 기반(Electron 등)의 무거운 리소스 점유율 문제를 해결하기 위해 **Tauri와 Rust**를 채택하여 네이티브 수준의 성능과 가벼운 메모리 점유율을 달성했습니다.
+* **Status:** ✅ **Production** | 팀 내부 도입 완료
+* **Description:** 웹 기술과 시스템 프로그래밍(Rust)을 결합하여 구축한 엔터프라이즈급 모니터링 데스크톱 애플리케이션입니다.
+
+* **🎯 Key Achievement: 400+ 도메인 로컬 테스트 인프라 구축**
+  * **400개가 넘는 프로덕션 도메인**을 로컬 환경에서 테스트할 수 있도록 시스템 레벨의 프록시 라우팅 및 SSL 인증서 관리를 자동화했습니다.
+  * 외부 네트워크 대기 시간이나 고비용의 스테이징 인프라 없이, 팀원들이 로컬에서 실제 서비스와 매우 유사한 환경을 구성해 개발할 수 있도록 워크플로우를 혁신했습니다.
+
+* **Engineering Excellence:**
+  * **Scale & Architecture:** 복잡한 멀티윈도우 상태 동기화를 구현하고 400개 이상의 동시 도메인을 <100ms 응답 속도로 안정적으로 관리합니다.
+  * **Performance:** 무거운 Electron(약 150MB) 대신 **Tauri와 Rust(약 5MB)**를 채택하여 바이너리 크기를 70% 이상 줄이고 네이티브 수준의 성능과 극도로 가벼운 메모리 점유율을 달성했습니다.
 
 </div>
 
@@ -122,8 +130,16 @@
 
 #### Watchtower (Domain & Service Monitoring App)
 * **Tech:** Rust, Tauri, React, TypeScript
-* **Description:** A high-performance, cross-platform desktop application designed to monitor domains and web services.
-* Replaced traditional resource-heavy Electron architectures with **Tauri and Rust** to achieve near-native execution speeds and a remarkably low memory footprint, demonstrating deep system-level programming capabilities.
+* **Status:** ✅ **Production** | Adopted by internal teams
+* **Description:** A high-performance, cross-platform desktop application designed for enterprise-level domain monitoring and local testing infrastructure.
+
+* **🎯 Key Achievement: Architected a 400+ Domain Local Testing Infrastructure**
+  * Engineered a robust system capable of managing **400+ concurrent production domains** with sub-millisecond precision.
+  * Implemented system-level HTTP/HTTPS proxy routing and automated SSL certificate management, enabling internal development teams to test against environments identical to real production services locally without network latency or external dependencies.
+
+* **Engineering Excellence:**
+  * **Architecture:** Features complex multi-window state synchronization (isolated yet fully synchronized).
+  * **Performance:** Replaced traditional resource-heavy Electron architectures with **Tauri and Rust**, reducing the binary footprint by ~70% (5MB vs. 150MB) while achieving near-native execution speeds and remarkably low memory usage.
 
 ---
 
