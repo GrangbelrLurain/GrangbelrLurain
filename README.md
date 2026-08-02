@@ -16,7 +16,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><b>🇰🇷 한국어 이력서 (Korean Resume) — [ 펼치기 / 접기 ]</b></summary>
 
 <br>
