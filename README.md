@@ -6,13 +6,10 @@
 
 ---
 
-### Focus & Status
+### Focus & Engineering Scope
 - **Current Role**: Frontend Lead @ **YRISM** *(Dispatched to Modetour)*
 - **Architecture**: Multi-tenant Monorepo, Next.js (v12→v15), Desktop DX (`Rust` / `Tauri 2`), Micro-Frontend Mesh
-- **Availability**: Open for selective part-time / contract remote *(UTC+9)*
-
-### Primary Tech
-`TypeScript` · `JavaScript` · `Rust` · `Next.js` · `React` · `TanStack Query` · `Zustand` · `Turborepo` · `Tailwind CSS` · `PWA` · `Tauri 2` · `Prisma`
+- **Primary Stack**: `TypeScript` · `JavaScript` · `Rust` · `Next.js` · `React` · `TanStack Query` · `Zustand` · `Turborepo` · `Tailwind CSS` · `PWA` · `Tauri 2` · `Prisma`
 
 ---
 
@@ -61,11 +58,11 @@
 <br>
 
 <details>
-<summary><b>🌐 Profile & Experience (EN / Remote)</b></summary>
+<summary><b>🌐 Profile & Experience (EN)</b></summary>
 
 <br>
 
-> **Frontend Lead · Product Engineer** | Available for **Part-time & Contract Remote** *(UTC+9)*
+> **Frontend Lead · Product Engineer**
 
 #### 📌 Overview
 Frontend Engineer with 4+ years of experience designing TypeScript monorepos, multi-tenant Next.js platforms, and Rust-based developer tooling. Currently leading frontend architecture for a large-scale travel platform (B2C + Partner tenants). Independently built and maintain **horizon-gateway** (Agentic DX desktop app) and **horizon-mesh** (serverless PWA mesh).
