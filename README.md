@@ -32,10 +32,10 @@ Frontend Lead at YRISM, working on Modetour's next-generation travel platform. I
 - Authored 1,490 commits and 669 merged pull requests (Dec 2024 to Sep 2026).
 
 ### GSIKO, Frontend Developer `Jan 2024 - Oct 2024`
-*B2B finance admin and KFTC Open Banking*
+*B2B finance admin and KFTC CMS direct debit*
 
 - Migrated about 30 admin screens from a Windows desktop client to a React web admin.
-- Owned state, validation, and retry handling for KFTC Open Banking withdrawal, collection, and ledger screens.
+- Owned state, validation, and retry handling for withdrawal, collection, and ledger screens integrated with KFTC CMS direct debit.
 - Added table virtualization to high-density finance data grids.
 
 ### ShopFanPick, Frontend Developer `Apr 2022 - Dec 2023`
