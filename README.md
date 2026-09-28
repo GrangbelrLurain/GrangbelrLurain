@@ -1,72 +1,65 @@
 # Kyuyeon Kim (김규연)
 
-Frontend Lead & Product Engineer specializing in multi-tenant Next.js monorepos, type-safe BFF pipelines, and Rust desktop developer tooling.
+Frontend Lead at YRISM, working on Modetour's next-generation travel platform. I build multi-tenant Next.js monorepos and frontend-owned BFF layers.
 
-[Korean Version](./README.ko.md) · [delete-horizon.com](https://delete-horizon.com) · [Contact](mailto:lurain003@gmail.com) · Suwon / Seoul, South Korea
+[Resume](https://grangbelrlurain.github.io/resumes/kyuyeon-kim-en) · [Portfolio](https://grangbelrlurain.github.io/) · [LinkedIn](https://www.linkedin.com/in/kyuyeon-kim-322462261/) · [Email](mailto:lurain003@gmail.com) · [한국어](./README.ko.md) · Suwon / Seoul, South Korea (UTC+9)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-v12→v15-black?style=flat-square&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-12_to_15-black?style=flat-square&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Rust-Tauri_2-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
-  <img src="https://img.shields.io/badge/Architecture-Multi--tenant_Monorepo-blueviolet?style=flat-square" alt="Monorepo" />
-  <img src="https://img.shields.io/badge/AI_DX-Cursor_%7C_Claude_%7C_Gemini-412991?style=flat-square" alt="AI DX" />
+  <img src="https://img.shields.io/badge/Monorepo-pnpm_%7C_Turborepo-blueviolet?style=flat-square" alt="Monorepo" />
 </p>
 
 ---
 
-> "When domains get complex, I start with structure — cutting repeat cost through shared modules, type-safe BFF pipelines, and infrastructure-level developer tooling."
+## Experience
+
+### YRISM, Frontend Lead / FE PL (team of 6) `Nov 2024 - Present`
+*Dispatched to Modetour's next-generation web platform (B2C, Best Partner, Online Best Partner)*
+
+- Ran 570+ Online Best Partner (ONBP) sites from one Next.js codebase.
+- Split the single B2C app into `core`, `web-b2c`, and `web-onbp` packages in a pnpm and Turborepo monorepo.
+- Led the upgrade from Next.js 12 (Pages Router) to Next.js 15, React 19, and TypeScript 5.
+- Moved Ant Design v4 to v5 and removed the Less build chain.
+- Built Hono BFFs (`@b2c/server`, `@onbp/server`) with Zod and TypeBox validation, plus FE Model and Mapper layers between the API and the UI.
+- Migrated the Hotel, Flight, Search, and Booking flows to the new platform.
+- Designed a CI test harness so only changes that pass the checks get merged.
+- Moved encryption and personal-data handling off the client to meet ISMS requirements.
+- Built an internal proxy tool that switches between Dev, Stage, Prod, and airline and hotel sandbox endpoints.
+- Wrote the team's Cursor and Claude agent guidelines.
+- Authored 1,490 commits and 669 merged pull requests (Dec 2024 to Sep 2026).
+
+### GSIKO, Frontend Developer `Jan 2024 - Oct 2024`
+*B2B finance admin and KFTC Open Banking*
+
+- Migrated about 30 admin screens from a Windows desktop client to a React web admin.
+- Owned state, validation, and retry handling for KFTC Open Banking withdrawal, collection, and ledger screens.
+- Added table virtualization to high-density finance data grids.
+
+### ShopFanPick, Frontend Developer `Apr 2022 - Dec 2023`
+*Creator commerce platform with admin and studio apps*
+
+- Migrated 3 CRA apps (Commerce, Admin, Studio) to a Next.js monorepo with SSR and SSG.
+- Used Next.js API Routes as a BFF and shared Prisma types across the monorepo.
+- Built the CMS content type system, a recursive Excel import and export parser, and encrypted Zip downloads in serverless functions.
 
 ---
 
-## Featured Projects (delete-horizon)
+## Independent Projects
 
 ### [horizon-gateway](https://gateway.delete-horizon.com)
-**Agentic DX Desktop Application for Local Network & Infrastructure Orchestration**
+A Rust and Tauri 2 desktop tool for local network debugging and API mocking.
 
-- **Cross-Platform Desktop Tool**: Built with Rust & Tauri 2 as a lightweight single binary, reproducing production-grade networking and proxy environments locally.
-- **Built-in Network Engine**: HTTPS MITM proxy, API mocking sandbox, WinDivert-based Transparent Proxy (capturing runtime traffic from processes ignoring OS proxy), and mobile tunneling.
-- **AI Agent Integration**: Ships with a dedicated headless CLI (`hgc`) and Agent Skill layers enabling AI agents (Cursor, Claude Code, Gemini) to inspect traffic, mock APIs, and orchestrate local infrastructure.
-- **Real-Time Team Sync**: Team workspace domain/mock rule synchronization powered by Supabase Realtime and SQLite FTS5 search indexing.
+- Includes an HTTPS MITM proxy, an API mock sandbox, a WinDivert transparent proxy, and mobile tunneling.
+- Ships a headless CLI (`hgc`) and Agent Skills so AI coding agents such as Cursor and Claude Code can inspect traffic and set mocks.
+- Syncs team domain and mock rules with Supabase Realtime and searches them with SQLite FTS5.
 
-[Live Site](https://gateway.delete-horizon.com) · [GitHub Repository](https://github.com/GrangbelrLurain/horizon-gateway)
+[Site](https://gateway.delete-horizon.com) · [Repository](https://github.com/GrangbelrLurain/horizon-gateway)
 
-<br>
-
-### [horizon-mesh](https://travel.delete-horizon.com)
-**Serverless Micro-Frontend App Mesh across Independent PWA Surfaces**
-
-- **Serverless MFA Mesh**: Connects independently deployed PWAs across separate domains using a lightweight shared embed protocol without requiring server-side rendering orchestration.
-- **Local-First Architecture**: Modularized `travel`, `hotel`, and `auth` surfaces with IndexedDB-backed offline capabilities and static hosting on Cloudflare Pages.
-
-[travel.delete-horizon.com](https://travel.delete-horizon.com/?mode=edit) · [hotel.delete-horizon.com](https://hotel.delete-horizon.com/) · [auth.delete-horizon.com](https://auth.delete-horizon.com/)
-
----
-
-## Professional Experience
-
-### YRISM — Frontend Lead / FE PL *(Team of 3–5)* `Nov 2024 – Present`
-*Dispatched to Modetour Next-Gen Web Platform (B2C / Best Partner / Online Best Partner)*
-
-- **Multi-Tenant Monorepo**: Re-architected single B2C into `core`, `web-b2c`, and `web-onbp` packages within a pnpm + Turborepo monorepo, establishing single-source operations for ~300+ partner (ONBP) sites.
-- **Major Framework Migration**: Led full upgrades from Next.js v12 (Pages) to v15, React 19, and Ant Design v4 to v5 (eliminating legacy Less build chains and standardizing Design Tokens).
-- **Type-Safe BFF Pipeline**: Built Hono-based BFFs (`@b2c/server`, `@onbp/server`) with Zod/TypeBox validation pipelines, strictly decoupling API changes from the UI via FE Model/Mapper layers.
-- **Core Domain & Payment**: Decoupled payment UI into an independent MFA embed module (`payment.modetour.com`); migrated revenue-critical domains (Hotel, Flight, Search, Booking).
-- **Engineering DX**: Built internal `proxy-tool` for instant environment switching across Dev/Stage/Prod and airline/hotel sandboxes; authored team-wide Cursor/Claude Agent guidelines.
-
-### GSIKO — Frontend Developer `Jan 2024 – Oct 2024`
-*YesCMS B2B Cash Management System & KFTC Open Banking*
-
-- **Legacy C/S to Web Migration**: Re-architected a legacy Windows C/S desktop client into a modern React web admin (~30 major enterprise screens).
-- **KFTC Open Banking Integration**: Owned frontend state machines, data validation, and exception/retry flows for core ledger and transaction domains.
-- **Performance & Automation**: Applied table virtualization for high-density financial data streams to stabilize DOM memory; automated tax-invoice (Popbill) workflows.
-
-### ShopFanPick — Frontend Developer `Apr 2022 – Dec 2023`
-*Creator Commerce Platform & Admin Ecosystem*
-
-- **CRA to Next.js Monorepo**: Migrated 3 CRA services (Commerce, Admin, Studio) to Next.js, introducing SSR/SSG for enhanced SEO visibility and routing performance.
-- **End-to-End Feature Ownership**: Introduced Next.js BFF + shared Prisma types across the monorepo, empowering frontend engineers to deliver features end-to-end without waiting for backend changes.
-- **Ops Pipelines**: Implemented CMS content type systems, recursive Excel I/O parsers, and serverless Zip-encrypted batch exports.
+### horizon-mesh (Experimental)
+An experiment that connects separately deployed PWAs (`travel`, `hotel`, `auth`) through a shared embed protocol, hosted on Cloudflare Pages. Not a finished product.
 
 ---
 
@@ -74,8 +67,9 @@ Frontend Lead & Product Engineer specializing in multi-tenant Next.js monorepos,
 
 ```text
 Languages     │ TypeScript · JavaScript · Rust · SQL
-Frontend      │ Next.js (v12~v15) · React 19 · TanStack Query · Zustand · Tailwind CSS · PWA
+Frontend      │ Next.js (v12 to v15) · React 19 · TanStack Query · Zustand · Tailwind CSS · Ant Design · PWA
 Backend & BFF │ Hono · Next.js API Routes · Zod · TypeBox · Prisma · SQLite
-Desktop & DX  │ Tauri 2 · Rust · MITM Proxy · WinDivert · Cursor Agent Skills · Vite · Biome
+Desktop & DX  │ Tauri 2 · Vite · Biome · Cursor · Claude
 Architecture  │ Multi-tenant Monorepo · Turborepo · pnpm · Micro-Frontend · FSD · Local-First
 Infra & Tools │ Cloudflare Pages · Supabase · Azure DevOps · Docker · Git
+```
